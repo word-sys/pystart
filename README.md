@@ -1,0 +1,2 @@
+# pystart
+Python için Başlangıç
